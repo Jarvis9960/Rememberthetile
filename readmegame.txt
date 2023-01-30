@@ -1,5 +1,5 @@
-Remember the tile game is very easy to play just remember the tile from the start of the game and 
-continue to press in correct order from the start of the game.
-Thank you...!
-Happy playing 
-made with love from Ankit.
+Remember the tile is a game based on memozation of every tile that is pressed randomlly and you have to pressed
+from the start tile which is pressed randomly and to the last end which was pressed if you succesfully done this you will level up.
+
+
+made by Ankit
